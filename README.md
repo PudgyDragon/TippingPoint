@@ -10,4 +10,10 @@
     </td>
     <td>Guide for upgrading both your SMS and TPS devices.</td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/PudgyDragon/TippingPoint/blob/main/Guides/DigitalVaccines.md">Digital Vaccines</a>
+    </td>
+    <td>A guide for updating the digital vaccines on your TippingPoint devices.</td>
+  </tr>
 </table>
